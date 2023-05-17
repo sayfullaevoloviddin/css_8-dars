@@ -1,0 +1,95 @@
+.navbar{
+    width: 1200px;
+    height: 530px;
+    margin: 200px auto;
+    border: 1px solid #C1BDBA;
+    background-color: #C1BDBA;
+}
+.navbar-item{
+    margin: 20px auto;
+    width: 500px;
+    height: 480px;
+    background-color: #24323D;
+}
+.input1{
+    margin-top: 40px;
+    width: 200px;
+    height: 50px;
+    margin-left: 50px;
+    border: 1px solid #1AB188;
+    background-color: #1AB188;
+    float: left;
+}
+input:nth-child(1)[value]{
+    font-size: 15px;
+    color: white;
+}
+input:nth-child(2)[value]{
+    color: #717F88;
+
+
+
+    font-size: 15px;
+}
+.input2{
+    color: white;
+    margin-top: 40px;
+    width: 200px;
+    height: 50px;
+    border: 1px solid #435259;
+    background-color: #435259;
+}
+p{
+    color: white;
+    font-size: 30px;
+    margin-left: 150px;
+}
+.input3{
+    width: 190px;
+    height: 35px;
+    border: 1px solid #717F88;
+    background-color:#24323D ;
+    float: left;
+    margin-left: 50px;
+}
+.input4{
+    width: 190px;
+    height: 35px;
+    border: 1px solid #717F88;
+    background-color:#24323D ;
+    margin-left: 10px;
+}
+input[placeholder]{
+    padding-left: 15px;
+    box-sizing: border-box;
+    color: #717F88;
+}
+.input5{
+    width: 396px;
+    height: 35px;
+    border: 1px solid #717F88;
+    background-color: #24323D ;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.input6{
+    width: 396px;
+    height: 35px;
+    border: 1px solid #717F88;
+    background-color: #24323D ;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+button{
+    width: 396px;
+    height: 65px;
+    border: 1px solid #1AB188;
+    background-color: #1AB188;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+button a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}

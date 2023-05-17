@@ -1,0 +1,104 @@
+body{
+    background-color: black;
+}
+h3{
+    color: grey;
+    margin-top: 8px;
+}
+.wrap{
+    width: 500px ;
+    margin: 180px auto;
+    height: 600px;
+    background-color: #2E3137;
+    position: relative;
+}
+.wrap-menu{
+    left: 80px;
+    top: 20px;
+    padding: 0;
+    width: 350px;
+    height: 550px;
+    border-radius: 5px;
+    background-color: #22262B;
+    position: absolute;
+
+}
+.menu-item{
+    border: 1px solid #454955;
+    width: 99.5%;
+    height: 45px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: center;
+    background-color: #454955;
+}
+.a{
+    margin-left: 30px;
+    color: grey;
+}
+input{
+    margin-left: 30px;
+    width: 280px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #454955;
+    border: 1px solid #454955;
+    margin-top: 20px;
+}
+input[type=checkbox]{
+    width: 15px;
+    float: left;
+}
+p{
+    margin-left: 60px;
+    margin-top: 25px;
+    color: grey;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    background-color: deepskyblue;
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    margin-left: 30px;
+}
+.c{
+    margin-top: 0;
+    margin-left: 30px;
+}
+.d{
+    margin-left: 100px;
+    margin-top: 0;
+    color: white;
+}
+.e{
+    width: 280px;
+    height: 35px;
+    background-color: #454955;
+    margin-top: 0;
+    margin-left: 30px;
+    border-radius: 5px;
+}
+.e a{
+    color: white;
+    text-decoration: none;
+    text-align: left;
+    font-size: 20px;
+}
+.f{
+    margin-left: 120px;
+
+}
+.l{
+    margin-left: 120px;
+    font-size: 20px;
+    font-family: Calibri;
+}
+input[placeholder]{
+    margin-top: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
